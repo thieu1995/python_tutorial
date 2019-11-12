@@ -1,10 +1,14 @@
 1. Editor dùng để code python: Pycharm hoặc Spider 
+```code 
 	https://www.jetbrains.com/pycharm/
 	https://www.spyder-ide.org/
+```
 
 2. Trước khi học python phải học cách quản lí các thư viện của python, dùng miniconda hoặc pip 
+```code
 	https://docs.conda.io/en/latest/miniconda.html
 	https://pip.pypa.io/en/stable/quickstart/
+```
 
 3. Python cơ bản:
 ```code 
